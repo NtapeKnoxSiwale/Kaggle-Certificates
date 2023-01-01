@@ -16,4 +16,4 @@ The certificate contains the following lessons;
 
 All the course materials are availbale on [Kaggle](https://kaggle.com).
 
-![Certififcate](https://www.kaggle.com/learn/certification/ntapeknoxsiwale/geospatial-analysis)
+[Certififcate](https://www.kaggle.com/learn/certification/ntapeknoxsiwale/geospatial-analysis)
