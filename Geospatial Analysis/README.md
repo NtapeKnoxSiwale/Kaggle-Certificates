@@ -15,3 +15,5 @@ The certificate contains the following lessons;
 5. [Proximity Analysis](./05-Proximity-Analysis.ipynb) : <span>Measure distance, and explore neighboring points on a map.</span>
 
 All the course materials are availbale on [Kaggle](https://kaggle.com).
+
+![Certififcate](https://www.kaggle.com/learn/certification/ntapeknoxsiwale/geospatial-analysis)
